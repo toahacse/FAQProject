@@ -21,7 +21,7 @@
 
     <div class="row tob_bar">
         <div class="col-md-12 text-center mb-4 mt-4">
-            <h1 class="my_h1">Have any questions?</h1>
+            <h1 class="my_h1"> <span class="type"></span></h1>
         </div>
         <div class="col-md-3"></div>
         <div class="col-md-6">
